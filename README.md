@@ -1,6 +1,9 @@
-# Santiago_Chavez_Aplicaciones-IOT_II
+## Nombre: Santiago Ronaldo Chavez Piñon
+## Grupo: GDS0651
 
 # UNIDAD 1: INSTRUMENTO DE EVALUACIÓN
+
+#PARTE TEÓRICA (30 PUNTOS) (INDIVIDUAL)
 
 ## Basada en NetAcad Python Fundamentals 2
 
