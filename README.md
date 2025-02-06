@@ -1,3 +1,7 @@
+# Datos del alumno
+## Santiago Ronaldo Chavez Pinon 1223100851 GDS0651
+
+
 ## Parte Teórica (30 Puntos)
 ### Ejercicios de NetAcad Python Fundamentals 2
 - *Capturas de Pantalla*: [Ver capturas](/teoria/capturas_pantalla)
