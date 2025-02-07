@@ -5,6 +5,18 @@
 ## Parte Teórica (30 Puntos)
 ### Ejercicios de NetAcad Python Fundamentals 2
 - *Capturas de Pantalla*: [Ver capturas](/teoria/capturas_pantalla)
+- Examen 1
+- ![image](https://github.com/user-attachments/assets/5185c739-edcb-4471-936b-32fd6b240230)
+- Examen 2
+- ![image](https://github.com/user-attachments/assets/9ec9685a-3fd1-4d99-8f96-1b2eba8d2a39)
+- Examen 3
+- ![image](https://github.com/user-attachments/assets/623b487b-fb59-45af-b2db-a326ad609cfe)
+- Examen 4
+- ![image](https://github.com/user-attachments/assets/e883b352-f0c5-4722-9a2f-2da7f4c2035a)
+- Examen final
+- ![image](https://github.com/user-attachments/assets/599ce482-9af4-425f-8997-4bbbdd95a70e)
+
+
 - *Cuestionario Final*: [Ver cuestionario](/teoria/cuestionario_final)
 
 ## Parte Práctica (60 Puntos)
