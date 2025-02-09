@@ -28,7 +28,7 @@
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
 - *Diagrama de Conexión*: [Ver diagrama](/proyectos/ejercicio_2_control_actuadores/diagramas)
 - *Código Documentado*: [Ver código](/proyectos/ejercicio_2_control_actuadores/codigo)
-- *Video de Funcionamiento*: [Ver video]((https://drive.google.com/file/d/1cQDUaIjteENscy7dRWzSOJLBlD22uX_4/view?usp=drive_link))
+- *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1cQDUaIjteENscy7dRWzSOJLBlD22uX_4/view?usp=drive_link)
 
 ### Ejercicios en Clase: Videos Demostrativos (10 Puntos)
 - *CRUD en PostgreSQL*: [Ver video](/proyectos/ejercicios_clase/videos)
