@@ -56,9 +56,3 @@
 - *Hardware*: Raspberry Pi, ESP32, Sensores (DHT11, LDR, etc.), Actuadores (LEDs, servomotores, etc.)
 - *Software*: Arduino IDE, MicroPython, Node-RED, PostgreSQL, Mosquitto MQTT
 - *Herramientas*: Protoboard, Cautín, Placa Fenólica, Multímetro
-
-## Contribuciones
-Este proyecto fue realizado por [Tu Nombre] como parte de la evaluación ordinaria de la asignatura *Aplicaciones de IoT*.
-
-## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).
