@@ -21,9 +21,9 @@
 
 ## Parte Práctica (60 Puntos)
 ### Ejercicio 1: Almacenamiento de Datos (15 Puntos)
-- *Diagrama de Conexión*: [Ver diagrama](/proyectos/ejercicio_1_almacenamiento_datos/diagramas)
-- *Código Documentado*: [Ver código](/proyectos/ejercicio_1_almacenamiento_datos/codigo)
-- *Video de Funcionamiento*: [Ver video](/proyectos/ejercicio_1_almacenamiento_datos/videos)
+- *Diagrama de Conexión*: [Ver diagrama](https://wokwi.com/projects/411114557316291585)
+- *Código Documentado*: [Ver código](https://wokwi.com/projects/411114557316291585)
+- *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1chhJULrhsvI0F7qI-DaaCn2ndjB-e8gd/view?usp=drive_link)
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
 - *Diagrama de Conexión*: [Ver diagrama](/proyectos/ejercicio_2_control_actuadores/diagramas)
@@ -31,9 +31,10 @@
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1cQDUaIjteENscy7dRWzSOJLBlD22uX_4/view?usp=drive_link)
 
 ### Ejercicios en Clase: Videos Demostrativos (10 Puntos)
-- *CRUD en PostgreSQL*: [Ver video](/proyectos/ejercicios_clase/videos)
-- *Instalaciones y Configuraciones Básicas*: [Ver video](/proyectos/ejercicios_clase/videos)
-- *LED y Botón con Raspberry Pi*: [Ver video](/proyectos/ejercicios_clase/videos)
+- *CRUD en PostgreSQL*: [Ver video](https://drive.google.com/file/d/1cXmOMtc9zUZH4QfSL78ugEPVxWLvjdWi/view?usp=drive_link)
+- *Instalaciones y Configuraciones Básicas*: [Ver video](https://drive.google.com/file/d/1cNKEM8OiKMX7UeOmb6yYdQwtI2jOiC9Z/view?usp=drive_link)
+- *LED con Raspberry Pi*: [Ver video](https://drive.google.com/file/d/1cboP0sWfDpXYSjGrnwL6lE59JCypqKpP/view?usp=drive_link)
+- *LED y Botón con Raspberry Pi*: [Ver video](https://drive.google.com/file/d/1cb5GzoH8sf-nS7MdPMU32KoDRabRO5tk/view?usp=drive_link)
 - *Conexión MQTT en Node-RED*: [Ver video](/proyectos/ejercicios_clase/videos)
 
 ### Ejercicios de Soldadura (20 Puntos)
@@ -46,11 +47,6 @@
 - *Fotografía en Repositorio*:
 - ![Imagen de WhatsApp 2025-02-09 a las 16 49 23_61c6703b](https://github.com/user-attachments/assets/88d9c1fb-cbe2-4469-b8a5-7055f890aef9)
 
-
-## Parte Socioafectiva (10 Puntos)
-- *Puntualidad en la Entrega de Evidencias*: [Ver evidencias](#)
-- *Colaboración Activa en Clase*: [Ver evidencias](#)
-- *Organización y Claridad en el Repositorio*: [Ver repositorio](#)
 
 ## Herramientas y Tecnologías Utilizadas
 - *Hardware*: Raspberry Pi, ESP32, Sensores (DHT11, LDR, etc.), Actuadores (LEDs, servomotores, etc.)
