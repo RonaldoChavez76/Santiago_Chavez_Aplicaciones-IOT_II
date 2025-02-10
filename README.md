@@ -26,16 +26,16 @@
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1chhJULrhsvI0F7qI-DaaCn2ndjB-e8gd/view?usp=drive_link)
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
-- *Diagrama de Conexión*: [Ver diagrama](/proyectos/ejercicio_2_control_actuadores/diagramas)
-- *Código Documentado*: [Ver código](/proyectos/ejercicio_2_control_actuadores/codigo)
+- *Diagrama de Conexión*: [Ver diagrama](https://wokwi.com/projects/422533502981768193)
+- *Código Documentado*: [Ver código](https://wokwi.com/projects/422533502981768193)
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1cQDUaIjteENscy7dRWzSOJLBlD22uX_4/view?usp=drive_link)
 
-### Ejercicios en Clase: Videos Demostrativos (10 Puntos)
+### Ejercicios en Clase: Videos Demostrativos (10 Puntos)  
 - *CRUD en PostgreSQL*: [Ver video](https://drive.google.com/file/d/1cXmOMtc9zUZH4QfSL78ugEPVxWLvjdWi/view?usp=drive_link)
 - *Instalaciones y Configuraciones Básicas*: [Ver video](https://drive.google.com/file/d/1cNKEM8OiKMX7UeOmb6yYdQwtI2jOiC9Z/view?usp=drive_link)
 - *LED con Raspberry Pi*: [Ver video](https://drive.google.com/file/d/1cboP0sWfDpXYSjGrnwL6lE59JCypqKpP/view?usp=drive_link)
 - *LED y Botón con Raspberry Pi*: [Ver video](https://drive.google.com/file/d/1cb5GzoH8sf-nS7MdPMU32KoDRabRO5tk/view?usp=drive_link)
-- *Conexión MQTT en Node-RED*: [Ver video](/proyectos/ejercicios_clase/videos)
+- *Conexión MQTT en Node-RED*: [Ver video](https://drive.google.com/file/d/1cX-c8_4Wq8lAJIhDl8qzIsx0s1RxbE2Q/view?usp=drive_link)
 
 ### Ejercicios de Soldadura (20 Puntos)
 #### Ejercicio 3: Circuito Funcional en Placa Fenólica (10 Puntos)
