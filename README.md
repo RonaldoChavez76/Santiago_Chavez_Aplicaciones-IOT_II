@@ -21,12 +21,12 @@
 
 ## Parte Práctica (60 Puntos)
 ### Ejercicio 1: Almacenamiento de Datos (15 Puntos)
-- *Diagrama de Conexión*: [Ver diagrama](https://wokwi.com/projects/411114557316291585)
+- *Diagrama de Conexión*: [Ver diagrama](https://docs.google.com/document/d/1hHUngXd5c-OlS0ivdyABaupHFyEpLh9T/edit?usp=sharing&ouid=110653117260173617647&rtpof=true&sd=true)
 - *Código Documentado*: [Ver código](https://wokwi.com/projects/411114557316291585)
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1chhJULrhsvI0F7qI-DaaCn2ndjB-e8gd/view?usp=drive_link)
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
-- *Diagrama de Conexión*: [Ver diagrama](https://wokwi.com/projects/422533502981768193)
+- *Diagrama de Conexión*: [Ver diagrama](https://docs.google.com/document/d/12FNlHUylFs6mOC09Wbb91QhWEJSSNbOX/edit?usp=sharing&ouid=110653117260173617647&rtpof=true&sd=true)
 - *Código Documentado*: [Ver código](https://wokwi.com/projects/422533502981768193)
 - *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1cQDUaIjteENscy7dRWzSOJLBlD22uX_4/view?usp=drive_link)
 
